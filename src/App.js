@@ -1,8 +1,10 @@
 import React from 'react';
 import About from './components/About';
+import Resume from './components/Resume';
 import Navigation from './components/Navigation';
-import Work from './components/Work';
+import Portfolio from './components/Portfolio';
 import Contact from './components/ContactInfo';
+import Footer from './components/Footer';
 import './App.css';
 
 function App() {
@@ -11,10 +13,13 @@ function App() {
       <Navigation></Navigation>
       <main>
         <About></About>
-        <Work></Work>
-      </main>
+        <Resume></Resume>
+        <Portfolio></Portfolio>
         <Contact></Contact>
+      </main>
+        <Footer></Footer>
     </div>  
+    
     );
 }
 

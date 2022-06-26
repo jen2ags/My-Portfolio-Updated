@@ -17,14 +17,19 @@ return (
                         </a>
                     </li>
                     <li>
-                        <a href="#my-work" onClick={() => handleClick()}>
-                            My Work
+                        <a href="#resume" onClick={() => handleClick()}>
+                            Resume
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#portfolio" onClick={() => handleClick()}>
+                            Portfolio
                         </a>
                     </li>
                     <li>
                         <a href="#contact-me" onClick ={() => handleClick()}>
                             Contact Me
-                        </a>
+                            </a>
                     </li>
                 </ul>
             </nav>
