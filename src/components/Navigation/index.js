@@ -1,4 +1,5 @@
 import React from 'react';
+import Resume from '../Resume';
 
 function Navigation() {
 
@@ -16,11 +17,7 @@ return (
                             About Me
                         </a>
                     </li>
-                    <li>
-                        <a href="#resume" onClick={() => handleClick()}>
-                            Resume
-                        </a>
-                    </li>
+                    <Resume></Resume>
                     <li>
                         <a href="#portfolio" onClick={() => handleClick()}>
                             Portfolio
