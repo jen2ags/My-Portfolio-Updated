@@ -160,7 +160,7 @@ text-align: center;
 #contact-me li {
   color: var(--tertiary-color);
   font-size: 22px;
-  padding: 60px;
+  padding: 30px;
 }
 
 #contact-me a {
@@ -168,8 +168,9 @@ text-align: center;
 }
 
 #contact-me ul {
-  margin-left: 14%;
-  margin-right: 14%;
+  margin: 0;
+  padding: 20px;
+  margin-right: 10%;
 }
 
 #contact-me ul li a:hover {
