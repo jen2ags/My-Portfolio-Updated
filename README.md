@@ -12,8 +12,13 @@ The purpose of this application is to display my personal portfolio to demonstra
 ## Website
 
 
+## Installation
+* Clone the repository
+* In the root directory, run npm install
+* Then, run npm start and the application will load in the brower
+
 ## Screen Shot
-![Screenshot My-React-Portfolio]()
+![Screenshot My-React-Portfolio](https://github.com/jen2ags/My-React-Portfolio/blob/main/src/assets/My-React-Portfolio%20screenshot.png)
 
 
 ## Created by:
