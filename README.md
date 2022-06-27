@@ -21,8 +21,8 @@ https://jen2ags.github.io/My-React-Portfolio/
 ![Screenshot My-React-Portfolio](https://github.com/jen2ags/My-React-Portfolio/blob/main/src/assets/My-React-Portfolio%20screenshot.png)
 
 
-## Created by:
-Jennifer Jennings
+## Contributions
+Made by Jennifer Jennings
 
 
 
