@@ -1,11 +1,11 @@
 import React from 'react';
 import medportal from '../../assets/medportal/medportal.png';
-import horiseon from '../../assets/Horiseon/horiseon.png';
 import karaokeKings from '../../assets/karaoke-kings/karaoke-kings.png';
 import notetaker from '../../assets/note-taker/note-taker.png';
 import robotGladiators from '../../assets/robot-gladiators/robot-gladiators.png';
 import runBuddy from '../../assets/run-buddy/run-buddy.png';
 import workDayScheduler from '../../assets/work-day-scheduler/work-day-scheduler.png';
+import motorBikeLabs from '../../assets/Motor-Bike-Labs/motor-bike-labs.png';
 
 function Work() {
     return (
@@ -45,15 +45,15 @@ function Work() {
                 </article>    
                 <article className="small-tiles">
                     <img src={robotGladiators} alt=""  width="150" height="300"></img>
-                    <img src={horiseon} alt=""  width="150" height="300"></img>
+                    <img src={motorBikeLabs} alt=""  width="150" height="300"></img>
 
                     <div id="small-tile-links">
                         <a href="https://github.com/jen2ags/robot-gladiators">GitHub Repository</a>
                         <a href="https://jen2ags.github.io/robot-gladiators/">Deployed Application</a>
 
 
-                        <a href="https://github.com/jen2ags/Module-01-Challenge">GitHub Repository</a>
-                        <a href="https://jen2ags.github.io/Module-01-Challenge/">Deployed Application</a>
+                        <a href="https://github.com/jen2ags/Motor-Bike-Labs">GitHub Repository</a>
+                        <a href="https://motor-bike-labs.herokuapp.com/">Deployed Application</a>
                     </div>
 
 
