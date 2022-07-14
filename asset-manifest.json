@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/My-React-Portfolio/static/css/main.7ec9b6dd.css",
-    "main.js": "/My-React-Portfolio/static/js/main.046ee199.js",
+    "main.js": "/My-React-Portfolio/static/js/main.5b81cd43.js",
     "static/js/787.56d9acf9.chunk.js": "/My-React-Portfolio/static/js/787.56d9acf9.chunk.js",
-    "static/media/horiseon.png": "/My-React-Portfolio/static/media/horiseon.32bde36e53f361d08c27.png",
+    "static/media/motor-bike-labs.png": "/My-React-Portfolio/static/media/motor-bike-labs.6a2f1a498a120afde670.png",
     "static/media/karaoke-kings.png": "/My-React-Portfolio/static/media/karaoke-kings.a1a8ae7c94193d49c091.png",
     "static/media/run-buddy.png": "/My-React-Portfolio/static/media/run-buddy.9fd85e379473ac182f64.png",
     "static/media/medportal.png": "/My-React-Portfolio/static/media/medportal.e78745a90e155afc50bc.png",
@@ -14,11 +14,11 @@
     "static/media/robot-gladiators.png": "/My-React-Portfolio/static/media/robot-gladiators.b416afeed522ba2e0749.png",
     "index.html": "/My-React-Portfolio/index.html",
     "main.7ec9b6dd.css.map": "/My-React-Portfolio/static/css/main.7ec9b6dd.css.map",
-    "main.046ee199.js.map": "/My-React-Portfolio/static/js/main.046ee199.js.map",
+    "main.5b81cd43.js.map": "/My-React-Portfolio/static/js/main.5b81cd43.js.map",
     "787.56d9acf9.chunk.js.map": "/My-React-Portfolio/static/js/787.56d9acf9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7ec9b6dd.css",
-    "static/js/main.046ee199.js"
+    "static/js/main.5b81cd43.js"
   ]
 }
