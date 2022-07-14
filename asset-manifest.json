@@ -1,24 +1,24 @@
 {
-  "files": {
-    "main.css": "/My-React-Portfolio/static/css/main.7ec9b6dd.css",
-    "main.js": "/My-React-Portfolio/static/js/main.5b81cd43.js",
-    "static/js/787.56d9acf9.chunk.js": "/My-React-Portfolio/static/js/787.56d9acf9.chunk.js",
-    "static/media/motor-bike-labs.png": "/My-React-Portfolio/static/media/motor-bike-labs.6a2f1a498a120afde670.png",
-    "static/media/karaoke-kings.png": "/My-React-Portfolio/static/media/karaoke-kings.a1a8ae7c94193d49c091.png",
-    "static/media/run-buddy.png": "/My-React-Portfolio/static/media/run-buddy.9fd85e379473ac182f64.png",
-    "static/media/medportal.png": "/My-React-Portfolio/static/media/medportal.e78745a90e155afc50bc.png",
-    "static/media/profile.jpg": "/My-React-Portfolio/static/media/profile.096479119a8ec27c60e6.jpg",
-    "static/media/Jennifer_Jennings_Resume.pdf": "/My-React-Portfolio/static/media/Jennifer_Jennings_Resume.1c25edb21cdee409c6bc.pdf",
-    "static/media/work-day-scheduler.png": "/My-React-Portfolio/static/media/work-day-scheduler.f6b0919f90327090e768.png",
-    "static/media/note-taker.png": "/My-React-Portfolio/static/media/note-taker.5dfb99d05ebab0d88c15.png",
-    "static/media/robot-gladiators.png": "/My-React-Portfolio/static/media/robot-gladiators.b416afeed522ba2e0749.png",
-    "index.html": "/My-React-Portfolio/index.html",
-    "main.7ec9b6dd.css.map": "/My-React-Portfolio/static/css/main.7ec9b6dd.css.map",
-    "main.5b81cd43.js.map": "/My-React-Portfolio/static/js/main.5b81cd43.js.map",
-    "787.56d9acf9.chunk.js.map": "/My-React-Portfolio/static/js/787.56d9acf9.chunk.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.7ec9b6dd.css",
-    "static/js/main.5b81cd43.js"
-  ]
+  "main.css": "/My-React-Portfolio/static/css/main.95941ab2.chunk.css",
+  "main.js": "/My-React-Portfolio/static/js/main.b99d0d2f.chunk.js",
+  "main.js.map": "/My-React-Portfolio/static/js/main.b99d0d2f.chunk.js.map",
+  "static/js/1.98639319.chunk.js": "/My-React-Portfolio/static/js/1.98639319.chunk.js",
+  "static/js/1.98639319.chunk.js.map": "/My-React-Portfolio/static/js/1.98639319.chunk.js.map",
+  "static/js/2.4366da91.chunk.js": "/My-React-Portfolio/static/js/2.4366da91.chunk.js",
+  "static/js/2.4366da91.chunk.js.map": "/My-React-Portfolio/static/js/2.4366da91.chunk.js.map",
+  "runtime~main.js": "/My-React-Portfolio/static/js/runtime~main.96db2ab1.js",
+  "runtime~main.js.map": "/My-React-Portfolio/static/js/runtime~main.96db2ab1.js.map",
+  "static/media/profile.jpg": "/My-React-Portfolio/static/media/profile.0e868efa.jpg",
+  "static/media/Jennifer_Jennings_Resume.pdf": "/My-React-Portfolio/static/media/Jennifer_Jennings_Resume.daff09d9.pdf",
+  "static/media/medportal.png": "/My-React-Portfolio/static/media/medportal.2223fad0.png",
+  "static/media/karaoke-kings.png": "/My-React-Portfolio/static/media/karaoke-kings.e7886882.png",
+  "static/media/note-taker.png": "/My-React-Portfolio/static/media/note-taker.1f2ead01.png",
+  "static/media/robot-gladiators.png": "/My-React-Portfolio/static/media/robot-gladiators.57ae9cdc.png",
+  "static/media/run-buddy.png": "/My-React-Portfolio/static/media/run-buddy.7f67f16b.png",
+  "static/media/work-day-scheduler.png": "/My-React-Portfolio/static/media/work-day-scheduler.0fa35eb2.png",
+  "static/media/motor-bike-labs.png": "/My-React-Portfolio/static/media/motor-bike-labs.f43d1bdc.png",
+  "static/css/main.95941ab2.chunk.css.map": "/My-React-Portfolio/static/css/main.95941ab2.chunk.css.map",
+  "index.html": "/My-React-Portfolio/index.html",
+  "precache-manifest.265bbe6b52432a9944ec30b509dfe48a.js": "/My-React-Portfolio/precache-manifest.265bbe6b52432a9944ec30b509dfe48a.js",
+  "service-worker.js": "/My-React-Portfolio/service-worker.js"
 }
