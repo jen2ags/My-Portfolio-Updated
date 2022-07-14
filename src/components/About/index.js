@@ -9,8 +9,10 @@ function About() {
             </h2>
             <img src={profilePic} alt="Profile"/>
             <div>
-            Hello! My name is Jennifer Jennings and I am thrilled to get into the world of coding and technology! I am a hard worker who loves learning new things! I recently decided to make a career change from teaching into coding and am loving it! I have experience running meetings and planning with teams to complete the tasks at hand. 
-                On a personal note, I love hiking and exploring new places. My dog Bailey is always along for the ride when she can be!
+            Hello! My name is Jennifer Jennings and I am thrilled to get into the world of business and technology!  
+            I am making a transition from a fulfilling career in education to a business analyst concentrating on my strengths in math, problem solving, and organization in a digital environment. 
+            As a young professional, I seek a company that is goal oriented, while continuing to make a difference in our community. I'm also looking for a dynamic company willing to invest in my growth where I can have a long and successful career partnership.
+            
             </div>
         </section>
         
